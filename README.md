@@ -8,6 +8,7 @@ This repository therefore does not contain the whole project, to avoid unjust pu
 Rather, it collects the scripts which were written directly by us for the project, which leverage on the (here unpublished) codebase.
 
 PRESENTING THE THREE SCRIPTS:
+
 __ data_analysis.py: we perfomed data cleaning, validation, aggregation and visualization. The dataset consists of hourly time series
 of energy prices, solar and wind production, energy consumption, plus some calendar variables.
 
