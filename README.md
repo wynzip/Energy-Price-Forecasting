@@ -1,6 +1,6 @@
 # Energy-Price-Interval-Forecasting
 Final project for the Financial Engineering (FE) Course at Politecnico di Milano, Quantitative Finance.
-Developed by Sara Cupini, Francesco Panichi, Davide Pagani. On Python in an Object-Oriented fashion. Final report is present.
+Developed between April 2024 and June 2024 by Sara Cupini, Francesco Panichi, Davide Pagani. On Python in an Object-Oriented fashion. Final report is present.
 
 ### DISCLAIMER
 The whole project builds on the foundation code developed by professor Alessandro Brusaferri (researcher at CNR), 
